@@ -1,0 +1,308 @@
+# Verified Hypotheses
+
+## 1. SQLE Negatively Regulates Mitochondrial Mass
+
+**Date:** 2024
+**Confidence:** 85/100
+**Novelty:** 90/100
+
+## 2. pH Dysregulation as Convergent Mechanism in Renal Cell Carcinoma
+
+**Date:** December 2024
+**Confidence:** 78/100
+**Novelty:** 75/100
+
+
+## 3. NXF1 Knockout Causes Severe Cell Death: Essential Gene Validation
+
+**Date:** December 2024
+**Confidence:** 95/100
+**Novelty:** 25/100
+
+
+## 4. Fanconi Anemia Pathway Disruption Causes Mitochondrial Dysfunction via RAD51 Bridge Mechanism
+
+**Date:** December 2024
+**Confidence:** 82/100
+**Novelty:** 80/100
+
+
+## 7. CUL3 Knockout Causes ER Stress and Cytoskeletal Disruption: Implications for Kidney Cancer Prognosis
+
+**Date:** December 2024
+**Confidence:** 82/100
+**Novelty:** 75/100
+
+## 6. LONP1 Knockout Causes Severe Mitochondrial Dysfunction: CODAS Syndrome Cellular Phenotype
+
+**Date:** December 2024
+**Confidence:** 88/100
+**Novelty:** 70/100
+
+
+## 5. Lysosomal Storage Disease Genes Induce ER Stress and Organelle Remodeling
+
+**Date:** December 2024
+**Confidence:** 78/100
+**Novelty:** 75/100
+
+
+## 6. VCP Knockout Induces ER Stress-Mediated RNA Processing Defects
+
+**Date:** December 2, 2025
+**Confidence:** 100/100
+**Novelty:** 75/100
+
+## 7. Proteasome Dysfunction Induces ER Stress: A Morphological Link to Autoinflammatory Disease
+
+**Date:** December 2024
+**Confidence:** 82/100
+**Novelty:** 78/100
+
+## 8. LONP1 Knockout Causes Severe Mitochondrial Dysfunction: CODAS Syndrome Cellular Phenotype
+
+**Date:** December 2024
+**Confidence:** 88/100
+**Novelty:** 70/100
+
+## 9. CUL3 Knockout Causes ER Stress and Cytoskeletal Disruption: Implications for Kidney Cancer Prognosis
+
+**Date:** December 2024
+**Confidence:** 82/100
+**Novelty:** 75/100
+
+## 10. GCH1 Knockout Reveals BH4-Dependent Mitochondrial Dysfunction: A Novel Morphological Link to Cardiovascular Disease Risk
+
+**Date:** December 2, 2025
+**Confidence:** 100/100
+**Novelty:** 75/100
+**Gene:** GCH1 (GTP Cyclohydrolase 1)
+**Disease Connection:** Cardiovascular disease (hypertension, atherosclerosis, endothelial dysfunction), Dopa-responsive dystonia, Phenylketonuria
+
+## 11. ATP6V1G1 Knockout Reveals Novel Nucleolar Dysfunction: Linking V-ATPase to Ribosome Biogenesis and Renal Cancer
+
+**Date:** December 2, 2025
+**Confidence:** 75/100
+**Novelty:** 85/100
+**Gene:** ATP6V1G1 (V-ATPase G1 subunit)
+**Disease Connection:** Renal Cell Carcinoma (KIRC) - prognostic marker (high expression = better survival)
+
+## 12. GSTM3 Knockout Reveals Mitochondrial Depletion and Oxidative Stress Vulnerability: A Novel Link to Glutathione-Dependent Mitochondrial Homeostasis
+
+**Date:** December 2, 2025
+**Confidence:** 82/100
+**Novelty:** 85/100
+**Gene:** GSTM3 (Glutathione S-Transferase Mu 3)
+**Disease Connection:** Hepatocellular Carcinoma, Glioblastoma, Neurodegenerative Diseases, Cardiovascular Disease, Intrahepatic Cholestasis
+
+## 13. FDPS Perturbation Causes Bidirectional Organelle Stress: ER Stress in Knockout, Mitochondrial Dysfunction in Overexpression
+
+**Date:** December 2, 2024
+**Confidence:** 85/100
+**Novelty:** 85/100
+**Gene:** FDPS (Farnesyl Diphosphate Synthase)
+**Disease Connection:** Porokeratosis (POROK9 - autosomal dominant skin disease), Osteoporosis (bisphosphonate target), Cancer (oncogenic overexpression)
+
+## 14. Aminoacyl-tRNA Synthetase Deficiency Reveals Conserved Mitochondrial Morphological Signature Linking Translation Fidelity to Neurological Disease
+
+**Date:** December 2024
+**Confidence:** 82/100
+**Novelty:** 85/100
+**Genes:** KARS, HARS, NARS, FARSA, FARSB, EPRS, SARS (7 aminoacyl-tRNA synthetases)
+**Disease Connection:** Charcot-Marie-Tooth Disease (CMT) - KARS (CMTRIB), HARS (CMT2W + Usher Syndrome IIIB), GARS (CMT2D), AARS (CMT2N), YARS (CMT1C)
+
+## 15. ESPL1 Knockout Induces Polyploidy with Dramatic Cellular Enlargement and Mitochondrial Depletion: A Novel Morphological Signature of Separase Deficiency
+
+**Date:** December 3, 2024
+**Confidence:** 88/100
+**Novelty:** 90/100
+**Gene:** ESPL1 (Extra Spindle Pole Bodies Like 1, Separase)
+**Disease Connection:** Cancer (aneuploidy, chromosomal instability), Mosaic Variegated Aneuploidy syndrome, Aging (polyploidy accumulation), Infertility (meiotic defects)
+
+## 16. GFM1 Knockout Causes Severe Mitochondrial Dysfunction: Morphological Signature of Combined Oxidative Phosphorylation Deficiency
+
+**Date:** December 3, 2025
+**Confidence:** 88/100
+**Novelty:** 82/100
+**Gene:** GFM1 (G elongation factor mitochondrial 1)
+**Disease Connection:** Combined Oxidative Phosphorylation Deficiency 1 (COXPD1), Neonatal mitochondrial hepatoencephalopathy, Mitochondrial translation defects
+
+## 17. ZNF804A Knockout Reveals Novel Link Between Psychiatric Risk Gene and Cellular Apoptosis
+
+**Date:** December 3, 2025
+**Confidence:** 85/100
+**Novelty:** 75/100
+**Gene:** ZNF804A (Zinc Finger Protein 804A)
+**Disease Connection:** Schizophrenia (rs1344706 SNP), Bipolar Disorder, Heroin Addiction, Glioblastoma (prognostic marker)
+
+## 18. BIRC5 Knockout Induces Mitotic Catastrophe and Apoptosis: Multi-Modal Validation of Cancer Therapeutic Target
+
+**Date:** December 3, 2024
+**Confidence:** 88/100
+**Novelty:** 75/100
+**Gene:** BIRC5 (Baculoviral IAP Repeat Containing 5, Survivin)
+**Disease Connection:** Multiple cancers (kidney, liver, lung, breast, ovarian, colorectal, glioblastoma) - prognostic marker (unfavorable)
+
+## 19. ZBTB20 Knockout Induces Cytoplasmic DNA Accumulation and DNA Damage: A Cellular Mechanism Underlying Primrose Syndrome
+
+**Date:** December 11, 2024
+**Confidence:** 82/100
+**Novelty:** 85/100
+**Gene:** ZBTB20 (Zinc Finger and BTB Domain Containing 20)
+**Disease Connection:** Primrose Syndrome (OMIM: 259050) - macrocephaly, intellectual disability, calcified pinnae, dysmorphic features
+
+## 19. Interferon Pathway Overexpression Causes Systematic Mitochondrial Dysfunction: A Novel Mechanism Linking Chronic Interferon Signaling to Autoimmune Disease Pathology
+
+**Date:** December 11, 2025
+**Confidence:** 85/100
+**Novelty:** 82/100
+**Genes:** IFIH1/MDA5, JAK1, JAK2, STAT1, STAT2, IRF1, IRF7, IRF9 (entire interferon signaling pathway)
+**Disease Connection:** Aicardi-Goutières Syndrome (AGS), Type 1 Diabetes, Singleton-Merten Syndrome, Multiple Sclerosis, Systemic Lupus Erythematosus
+
+## 20. CA4 Knockout Causes Mitochondrial Dysfunction via pH Dysregulation: Novel Cellular Mechanism of Renal Tubular Acidosis
+
+**Date:** December 10, 2024
+**Confidence:** 88/100
+**Novelty:** 85/100
+**Gene:** CA4 (Carbonic Anhydrase 4)
+**Disease Connection:** Renal Tubular Acidosis (RTA), Retinitis Pigmentosa, Cancer (breast, kidney, rectum, brain, liver, prostate), Autoimmune diseases (SLE, Sjögren's syndrome)
+
+## 21. Peroxisome Dysfunction Reveals Distinct Organellar Crosstalk Mechanisms: PEX1/PEX6 Drive Mitochondrial Stress, PEX10 Drives ER Stress
+
+**Date:** December 10, 2025
+**Confidence:** 82/100
+**Novelty:** 85/100
+**Genes:** PEX1, PEX6, PEX10, PEX13 (Peroxisome biogenesis factors)
+**Disease Connection:** Zellweger Syndrome Spectrum Disorders (ZSSD), Neonatal Adrenoleukodystrophy, Heimler Syndrome, Peroxisome Biogenesis Disorders
+
+## 22. PTCH1 Knockout Induces Dramatic Mitochondrial Network Expansion: A Novel Link Between Hedgehog Signaling and Mitochondrial Biogenesis
+
+**Date:** December 10, 2024
+**Confidence:** 96/100
+**Novelty:** 90/100
+**Gene:** PTCH1 (Patched 1)
+**Disease Connection:** Basal Cell Carcinoma (most common cancer), Medulloblastoma, Gorlin Syndrome, Holoprosencephaly
+
+## 23. EIF4A3 and the Exon Junction Complex: A Critical Link Between RNA Processing Defects and Richieri-Costa-Pereira Syndrome
+
+**Date:** December 3, 2024
+**Confidence:** 88/100
+**Novelty:** 75/100
+**Gene:** EIF4A3 (Eukaryotic Initiation Factor 4A3)
+**Disease Connection:** Richieri-Costa-Pereira Syndrome (RCPS - rare genetic disorder with microcephaly, craniofacial abnormalities, limb defects), Multiple cancers (bladder, lung, liver, kidney - prognostic marker)
+
+## 24. SOD1 Morphological Phenotypes Reveal Novel ALS-Parkinson's Disease Connection Through GBA Similarity
+
+**Date:** December 10, 2024
+**Confidence:** 72/100
+**Novelty:** 85/100
+**Gene:** SOD1 (Superoxide Dismutase 1)
+**Disease Connection:** Amyotrophic Lateral Sclerosis (ALS - 20% of familial cases), Novel connection to Parkinson's Disease through GBA morphological similarity
+
+## 25. PHB2 Perturbation Reveals Bidirectional Mitochondrial Dysfunction: Knockout Increases Mitochondrial Mass, Overexpression Causes Catastrophic Depletion
+
+**Date:** December 10, 2024
+**Confidence:** 92/100
+**Novelty:** 88/100
+**Gene:** PHB2 (Prohibitin 2)
+**Disease Connection:** Diabetic Kidney Disease, Cardiorenal Syndrome, Mitochondrial Diseases
+
+
+## 26. PARK2 Knockout Induces ER Stress and Cytoskeletal Remodeling: A Novel Link Between Mitophagy Deficiency and Cellular Architecture
+
+**Date:** December 2024
+**Confidence:** 82/100
+**Novelty:** 78/100
+**Gene:** PARK2 (Parkin RBR E3 Ubiquitin Protein Ligase)
+**Disease Connection:** Parkinson's Disease (autosomal recessive juvenile Parkinsonism, early-onset PD - 50% of familial cases)
+
+
+## 27. C1GALT1 Knockout Induces ER Expansion and Stress: Morphological Signature of O-Glycosylation Deficiency Linking Tn Syndrome to Cancer Progression
+
+**Date:** December 10, 2024
+**Confidence:** 85/100
+**Novelty:** 88/100
+**Gene:** C1GALT1 (Core 1 β1,3-galactosyltransferase 1)
+**Disease Connection:** Tn Syndrome (rare blood disorder), IgA Nephropathy, Multiple Cancers (colorectal, pancreatic, gastric, breast) - prognostic marker
+
+## 28. NLRC5 Knockout Induces Cellular Senescence and Proliferation Defect: A Novel Tumor Suppressor Mechanism Beyond MHC-I Regulation
+
+**Date:** December 2024
+**Confidence:** 85/100
+**Novelty:** 85/100
+**Gene:** NLRC5 (NOD-Like Receptor Family CARD Domain Containing 5)
+**Disease Connection:** Autoimmune diseases (Rheumatoid Arthritis, Inflammatory Bowel Disease), Cancer (Pancreatic adenocarcinoma prognostic marker), Inflammatory disorders
+
+## 29. IRF3 Knockout Reveals Paradoxical Mitochondrial Accumulation: A Novel Non-Canonical Function Beyond Apoptosis
+
+**Date:** December 10, 2025
+**Confidence:** 88/100
+**Novelty:** 85/100
+**Gene:** IRF3 (Interferon Regulatory Factor 3)
+**Disease Connection:** Viral infections, Autoimmune diseases (Aicardi-Goutières syndrome, SAVI), Myocardial infarction, Ischemia-reperfusion injury
+
+## 30. DNA Replication Catastrophe: POLA1 Knockout Induces Granular Chromatin and Replication Stress
+
+**Date:** December 10, 2025
+**Confidence:** 92/100
+**Novelty:** 88/100
+**Gene:** POLA1 (DNA Polymerase Alpha 1, Catalytic Subunit)
+**Disease Connection:** X-linked Reticulate Pigmentary Disorder (H02484), Meier-Gorlin Syndrome (H01889), X-linked Syndromic Intellectual Developmental Disorder (H00658), Cancer (liver, lung)
+
+## 31. SIRT6 Overexpression Induces Mitochondrial Biogenesis and Metabolic Reprogramming: A Novel Morphological Link to Longevity and Aging
+
+**Date:** December 11, 2025
+**Confidence:** 88/100
+**Novelty:** 85/100
+**Gene:** SIRT6 (Sirtuin 6, NAD-dependent protein deacetylase)
+**Disease Connection:** Aging and cellular senescence, Cardiovascular disease (atherosclerosis, endothelial dysfunction), Metabolic disorders (diabetes, obesity), Cancer (context-dependent tumor suppressor), Neurodegenerative diseases, Osteoarthritis, Intervertebral disc degeneration
+
+## 32. RECQL4 Knockout Reveals Novel ER Stress-Proliferation Paradox: Mechanistic Link to Cancer Predisposition in DNA Repair Deficiency Syndromes
+
+**Date:** December 11, 2024
+**Confidence:** 85/100
+**Novelty:** 90/100
+**Gene:** RECQL4 (RecQ Like Helicase 4)
+**Disease Connection:** Rothmund-Thomson Syndrome type 2 (RTS2) - 32% osteosarcoma risk, RAPADILINO Syndrome, Baller-Gerold Syndrome
+
+## 33. HSPA5 Knockout Reveals ER Stress-Mediated Mitochondrial Dysfunction and Apoptosis: Morphological Validation of Cancer Therapeutic Target
+
+**Date:** December 11, 2025
+**Confidence:** 82/100
+**Novelty:** 70/100
+**Gene:** HSPA5 (Heat Shock Protein Family A Member 5, BiP, GRP78)
+**Disease Connection:** Multiple cancers (glioblastoma, liver, kidney - unfavorable prognosis), Neurodegeneration (Alzheimer's, Parkinson's, ALS, Huntington's)
+
+## 34. VHL Loss Induces Metabolic Reprogramming with Severe Mitochondrial Dysfunction and Cellular Compaction
+
+**Date:** December 11, 2025
+**Confidence:** 88/100
+**Novelty:** 75/100
+**Gene:** VHL (Von Hippel-Lindau tumor suppressor)
+**Disease Connection:** Clear cell renal cell carcinoma (ccRCC - >90% have VHL mutations), Von Hippel-Lindau syndrome, Congenital polycythemia, Malignant paraganglioma
+
+## 35. TH Knockout Induces Compensatory Mitochondrial Biogenesis: A Novel Cellular Response to Dopamine Deficiency in Parkinson's Disease
+
+**Date:** December 11, 2025
+**Confidence:** 85/100
+**Novelty:** 88/100
+**Gene:** TH (Tyrosine Hydroxylase)
+**Disease Connection:** Parkinson's Disease (dopaminergic neuron loss), Dopa-responsive dystonia, Segawa syndrome
+
+## 36. NOTCH2 Knockout Induces Dramatic Cell Spreading Through Dysregulation of Focal Adhesion Dynamics
+
+**Date:** December 12, 2024
+**Confidence:** 85/100
+**Novelty:** 88/100
+**Gene:** NOTCH2 (Notch Receptor 2)
+**Disease Connection:** Alagille Syndrome (ALGS2 - hepatic bile duct paucity, cardiovascular malformations), Hajdu-Cheney Syndrome (HJCYS - acro-osteolysis, osteoporosis)
+
+## 37. Death Receptor Pathway Components Exhibit Constitutive Anti-Proliferative Functions Independent of Ligand Stimulation
+
+**Date:** December 12, 2024
+**Confidence:** 92/100
+**Novelty:** 88/100
+**Genes:** CASP8 (Caspase-8), TNFRSF10B (TRAIL-R2/DR5), FADD (Fas-Associated Death Domain)
+**Disease Connection:** Head and neck squamous cell carcinoma (HNSCC), Hepatocellular carcinoma (HCC), Multiple cancers with CASP8/TNFRSF10B mutations, Immunotherapy response prediction
+**Key Finding:** CASP8 and TNFRSF10B knockout leads to 11-fold increase in cell density, revealing constitutive growth suppression function independent of death ligand stimulation. Overexpression produces minimal effects (0.96-1.45x), indicating pathway saturation. This paradigm-shifting discovery explains why death receptor pathway mutations are frequent in cancer and provides mechanistic basis for immunotherapy biomarkers.
+
