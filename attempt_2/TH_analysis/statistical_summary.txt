@@ -1,0 +1,17 @@
+TH PERTURBATION MORPHOLOGICAL ANALYSIS SUMMARY
+================================================================================
+
+KEY FINDINGS:
+
+1. TH KNOCKOUT shows:
+   - 18.2% reduction in cell size (p<1e-16)
+   - 26.8% increase in nuclear-cytoplasmic ratio (p<1e-16)
+   - 85.3% increase in mitochondria intensity (p<1e-179)
+   - 12.4% increase in RNA intensity (p<1e-18)
+
+2. TH OVEREXPRESSION shows:
+   - 14.9% increase in mitochondria intensity (p<1e-3)
+   - Minimal cell size changes
+
+3. Both perturbations show increased mitochondrial content,
+   suggesting TH plays a critical role in mitochondrial homeostasis.

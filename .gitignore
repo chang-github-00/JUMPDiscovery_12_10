@@ -12,4 +12,6 @@ Interpretable_JUMP_Features/profiles_wellpos_cc_var_mad_outlier_orf.parquet
 Interpretable_JUMP_Features/profiles_wellpos_cc_var_mad_outlier_crispr.parquet
 JUMP_Similarity_Data/crispr_cosinesim_full.parquet
 JUMP_Similarity_Data/orf_cosinesim_full.parquet
+TH_analysis/nucleoli_with_metadata.csv
+TH_analysis/cellprofiler_output/Nucleoli.csv
 (python39) (python39)
