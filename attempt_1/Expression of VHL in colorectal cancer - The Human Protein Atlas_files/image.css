@@ -1,0 +1,230 @@
+#seadragon {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 5000;
+	background-color: #000;
+	display: none;
+}
+
+#seadragon.seadragon-light, #seadragon.seadragon-light .navigator {
+	background-color: #F1F1F1!important;
+}
+#seadragon.seadragon-dark, #seadragon.seadragon-dark .navigator {
+	background-color: #000!important;
+}
+#seadragon_overlay {
+	display: none;
+}
+#seadragon_meta {
+	font-size: 11px;
+	left: 10px;
+	top: 182px;
+	position: absolute;
+	width: 130px;
+	text-align: center;
+	background-color: #fff;
+	border: 2px solid #555555;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+#seadragon_meta p, #seadragon_meta a {
+	font-size: 9px;
+	/* font-weight: bold; */
+	display: inline;
+}
+#seadragon_meta span {
+	font-weight: bold;
+	display: inline-block;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+#seadragon_thumbs {
+	left: 150px;
+	top: 10px;
+	position: absolute;
+	width: 80%;
+}
+#seadragon_thumbs a, #seadragon_thumbs span.cancer {
+	float: left;
+	position: relative;
+	display: inline-block;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	cursor: pointer;
+	border: 1px solid #ccc;
+	width: 50px;
+	height: 50px;
+}
+#seadragon_thumbs span.cancer {
+	width: auto;
+	height: 25px;
+	background-color: #fff;
+	border: 1px solid #ccc;
+}
+#seadragon_thumbs span.cancer.single_image {
+	margin-right: 30px;
+}
+#seadragon_thumbs span.cancer a {
+	width: 25px;
+	height: 25px;
+	margin: 0px;
+	border: 0px;
+}
+#seadragon_thumbs a.lastImg {
+	margin-left: 20px;
+}
+#seadragon_thumbs a.lastImg.lastImgChannel,
+#seadragon_thumbs a.lastImgChannel {
+	margin-left: 50px;
+}
+#seadragon_thumbs span.cancer.lastImg {
+	margin-left: 0px;
+	clear: left;
+}
+#seadragon_thumbs a img {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+#seadragon_thumbs a:hover {
+	border-color: #555555;
+}
+#seadragon_thumbs a img.overlay, #seadragon_thumbs a img.overlay2 {
+	display: none;
+	cursor: pointer;
+}
+#seadragon_thumbs a.sample_selected img.overlay, #seadragon_thumbs a.sample_checked img.overlay2 {
+	display: block;
+}
+
+a.imid {
+	display: inline-block;
+	position: relative;
+}
+
+a.imid.impat {
+	display: block;
+	line-height: 0;
+}
+
+div.cancerAnnoations {
+	border:2px solid transparent;
+	display: inline-block;
+	height:160px;
+	vertical-align: top
+}
+
+div.img_ref {
+	position: absolute!important;
+	width: 17px;
+	height: 20px;
+	background-image: url('/images_static/reliability__green.png');
+	z-index: 2;
+	top: 0px;
+	right: 0px;
+}
+
+
+/*## IF channels / IH overlays */
+button.green {
+	background-color: #33cc00;
+}
+button.blue {
+	background-color: #4c96c3;
+}
+button.lut {
+	background-color: #FF8F00;
+}
+button.red {
+	background-color: #d22c14;
+}
+button.yellow {
+	background-color: #dece1e;
+}
+button.magenta {
+	background-color: #ff00ff;
+}
+button.overlay {
+	background-color: #CAFFCA;
+}
+button.inactive {
+	background-color: #ccc;
+}
+button.channel, button.overlay {
+	width: 80px;
+	border: 1px solid #000;
+	margin: 1px;
+	padding: 1px;
+	font-size: 10px;
+	cursor: pointer;
+}
+img.overlay {
+	cursor: move;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 1405;
+}
+
+button.channel_button,
+button.lut_button[name=lut],
+button.segm_button[name=segm],
+button.compare {
+	border: 1px solid black;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	-khtml-border-radius: 5px;
+	font-weight: bold;
+	width: 86px;
+	padding: 2px;
+	margin: 2px;
+	cursor: pointer;
+}
+
+button.channel_button.multiplex {
+	width: 95px;
+}
+
+button.channel_button[name=green] {
+	background-color: #00ff40 !important;
+}
+button.channel_button[name=blue] {
+	background-color:#0080ff!important;
+}
+button.channel_button[name=red] {
+	background-color:#f00!important;
+}
+button.channel_button[name=yellow] {
+	background-color:#ff0!important;
+}
+button.channel_button[name=magenta] {
+	background-color: #f0f!important;
+}
+button.channel_button[name=cyan] {
+	background-color: #0ff!important;
+}
+button.channel_button[name=white] {
+	background-color: #fff!important;
+}
+button.lut_button[name=lut] {
+	background-color:#fa0!important;
+}
+button.segm_button[name=segm] {
+	background-color:#00ffff!important;
+}
+button.channel_inactive[name] {
+	background-color: #ccc!important;
+}
+button.channel_disabled[name] {
+	cursor: default;
+    color: inherit;
+    border-radius: 0px;
+    border: 0px;
+    text-align: left;
+}

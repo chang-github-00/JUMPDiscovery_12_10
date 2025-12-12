@@ -1,0 +1,130 @@
+svg.double {
+	background-color: white;
+	border-radius: 6px;
+}
+svg.double text.valueLabel {
+	font-size: 9px;
+}
+svg.double a:hover {
+	text-decoration: none;
+}
+
+.cancer_summary a.rounded_cancer {
+	margin: 10px;
+}
+
+.cancer_detail button {
+	width: 120px!important;
+	position: relative;
+	cursor: pointer;
+}
+.cancer_detail button span {
+	position: absolute;
+	font-size: 8.5px;
+	right: 2px;
+	top: 4px;
+}
+.tab_gradient {
+	height: 7px;
+	background: #c2c2c2; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#fff, #c2c2c2); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#fff, #c2c2c2); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#fff, #c2c2c2); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#fff, #c2c2c2); /* Standard syntax */
+}
+
+span.col1, span.col2 {
+	display: inline-block;
+	width: 125px;
+}
+span.col2 {
+	width: 75px;
+	text-align: right;
+}
+
+.xlog:after {
+	content: "x log";
+}
+.xlin:after {
+	content: "x linear";
+}
+svg .plotBG {
+	fill: #ffffff;
+}
+.kaplanplot .group0 {
+	stroke: #4077be;
+}
+.kaplanplot .group1 {
+	stroke: #e3aae0;
+}
+.kaplanplot .legend0 {
+	fill: #4077be;
+}
+.kaplanplot .legend1 {
+	fill: #e3aae0;
+}
+
+.scatterplot .group0, .scatterplot .area0, .scatterplot .legend0, .scatterplot .legend2, .scatterplot .median_dead .area {
+	fill: #d90036;
+}
+.scatterplot .stroke0 {
+	stroke: #d90036;
+	stroke-width: 1.5;
+	fill: none;
+}
+.scatterplot .group1, .scatterplot .area1, .scatterplot .legend1, .scatterplot .legend3, .scatterplot .median_alive .area {
+	fill: #265cff;
+}
+.scatterplot .stroke1 {
+	stroke: #265cff;
+	stroke-width: 1.5;
+	fill: none;
+}
+.scatterplot .median path {
+	stroke: #000;
+	stroke-width: 1;
+	fill: none;
+}
+.scatterplot .cutoff {
+	cursor: col-resize;
+}
+.scatterplot .cutoff line {
+	stroke-dasharray: 3, 3;
+	stroke-width: 2;
+	stroke: #000;
+}
+.scatterplot .cutoff line.hiddenline {
+	stroke-dasharray: 3, 3;
+	stroke-width: 16;
+	stroke: #000000;
+	display: block;
+	opacity: 0;
+}
+.scatterplot .group_over, .scatterplot .area_over, .scatterplot .median_over .area {
+	fill: #ff99b3;
+}
+.scatterplot .group_under, .scatterplot .area_under, .scatterplot .median_under .area {
+	fill: #a60029;
+}
+.scatterplot .area, .scatterplot .histogram {
+	opacity: 0.3;
+}
+
+div.kaplanData {
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	width: 180px;
+	height: 140px;
+	background-color: #c2c2c2;
+	padding: 5px;
+}
+
+div.kaplanData div {
+	position: relative;
+}
+
+div.kaplanData div .right {
+	position: absolute;
+	right: 0;
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "jcp_id": "JCP2022_802648",
+    "gene": "GCNT2",
+    "plate_type": "crispr",
+    "ncbi_id": "2651",
+    "pert_type": "trt"
+  },
+  {
+    "jcp_id": "JCP2022_801334",
+    "gene": "CHST3",
+    "plate_type": "crispr",
+    "ncbi_id": "9469",
+    "pert_type": "trt"
+  },
+  {
+    "jcp_id": "JCP2022_803534",
+    "gene": "JUN",
+    "plate_type": "crispr",
+    "ncbi_id": "3725",
+    "pert_type": "trt"
+  },
+  {
+    "jcp_id": "JCP2022_804370",
+    "gene": "MYH9",
+    "plate_type": "crispr",
+    "ncbi_id": "4627",
+    "pert_type": "trt"
+  },
+  {
+    "jcp_id": "JCP2022_807648",
+    "gene": "VHL",
+    "plate_type": "crispr",
+    "ncbi_id": "7428",
+    "pert_type": "trt"
+  },
+  {
+    "jcp_id": "JCP2022_802609",
+    "gene": "GAPDH",
+    "plate_type": "crispr",
+    "ncbi_id": "2597",
+    "pert_type": "trt"
+  },
+  {
+    "jcp_id": "JCP2022_800399",
+    "gene": "ALDOA",
+    "plate_type": "crispr",
+    "ncbi_id": "226",
+    "pert_type": "trt"
+  },
+  {
+    "jcp_id": "JCP2022_802801",
+    "gene": "GPI",
+    "plate_type": "crispr",
+    "ncbi_id": "2821",
+    "pert_type": "trt"
+  }
+]

@@ -1,0 +1,151 @@
+div.index_wrap div.menu_dropdown {
+	text-align: left;
+	position: relative;
+	width: 1000px;
+	margin: auto;
+}
+div.page_header div.menu_dropdown {
+	text-align: left;
+	display: inline-block;
+	position: relative;
+	top: -10px;
+	margin-left: 35px;
+}
+
+div.dropdown, .navdiv {
+	position: relative;
+	display: inline-block;
+	margin-right: 11px;
+	padding: 1px 6px 2px 5px;
+}
+
+div.dropdown:hover, div.dropdown.display {
+	/*box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);*/
+	background-color: #c2c2c2; /*darkgray;/*#D9D9D9;*/
+	border-radius: 5px;
+}
+
+div.dropdown a {
+	color: #000000;
+	font-weight: bold;
+	letter-spacing: 1px;
+	font-size: 14px;
+	text-decoration: none;
+	font-family: 'Titillium Web', arial, sans-serif;
+}
+div.dropdown a:hover, div.dropdown.display > a {
+	color: white;
+}
+div.dropdown.display {
+	background-color: #000000;
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+}
+div.dropdown.display ul.nav {
+	display: block;
+}
+div.dropdown ul.nav {
+	z-index: 1002;
+	position: absolute;
+	display: none;
+	list-style: none;
+	color: #000000;
+  font-weight: bolder;
+  font-size: 13px;
+  text-decoration: none;
+  font-family: arial, sans-serif;
+  margin: 0px;
+  padding: 0;
+  padding-bottom: 15px;
+  background-color: #D9D9D9;
+  border-radius: 5px;
+	left: 0px;
+	top: 23px;
+}
+
+div.dropdown li.nav-cat {
+	color: white;
+	background-color: black;
+	border-radius: 5px 5px 0 0;
+	border-top-left-radius: 0px;
+	padding-top: 6px;
+	padding-bottom: 3px;
+	font-style: normal;
+	font-size: 10px;
+	font-weight: bold;
+  /* color: #404040; */
+	padding-left: 10px;  
+	
+}
+div.dropdown li.nav-cat:empty {
+	height: 2px;
+}
+
+div.dropdown li {
+	padding-top: 5px;
+	padding-left: 5px;
+	height: 14px;
+}
+
+div.dropdown li.nav-link {
+    border-radius: 6px;
+    display: block;
+    position: relative;
+    white-space: nowrap;
+    width: 220px;
+    color: #B1B1B1;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 6px 0px 6px 10px;
+}
+
+div.dropdown li.nav-link a {
+	color: #6C6C6C;
+}
+div.dropdown li.nav-link a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+div.dropdown li.nav-link span.active {
+	background-color: darkgray;
+	border-radius: 6px;
+	padding: 3px 7px 3px 7px;
+}
+
+div.dropdown li.nav-link span.active a {
+	color: white;
+}
+
+
+/*Breadcrumb*/
+div#breadcrumb {
+	padding: 1px 200px 1px 0px;
+	text-align: left;
+	width: 800px;
+	margin: auto;
+}
+
+div#breadcrumb span, div#breadcrumb span a {
+	font-weight: normal;
+	padding: 5px 5px 5px 5px;
+	color: grey;
+	font-size: 11px;
+}
+
+div#breadcrumb span a, div#breadcrumb span span {
+	padding: 0;
+}
+
+div#breadcrumb span a:hover {
+	text-decoration: underline;
+}
+
+div#breadcrumb .crumb_active {
+	color: black;
+	font-weight: bold;
+}
+
+
+html {
+  min-height: 100%;
+}

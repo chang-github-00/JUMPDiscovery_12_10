@@ -1,0 +1,128 @@
+{
+  "Cell_Area": {
+    "vhl_mean": "1.1333373",
+    "control_mean": "0.11966748",
+    "fold_change": "9.47072",
+    "p_value": 0.3399886467464647,
+    "cohens_d": 0.548925816620097
+  },
+  "Nuclei_Area": {
+    "vhl_mean": "-3.0964072",
+    "control_mean": "-0.013123053",
+    "fold_change": "235.95174",
+    "p_value": 0.0031630442127227555,
+    "cohens_d": -1.6551042436789856
+  },
+  "Cytoplasm_Area": {
+    "vhl_mean": "1.6417038",
+    "control_mean": "0.13434371",
+    "fold_change": "12.220176",
+    "p_value": 0.152594652928403,
+    "cohens_d": 0.812887691502496
+  },
+  "Cells_DNA_Intensity": {
+    "vhl_mean": "-0.76071966",
+    "control_mean": "-0.0070630386",
+    "fold_change": "107.7043",
+    "p_value": 0.3258665690189225,
+    "cohens_d": -0.5963283321625172
+  },
+  "Nuclei_DNA_Intensity": {
+    "vhl_mean": "1.1514332",
+    "control_mean": "-0.09590164",
+    "fold_change": "-12.006398",
+    "p_value": 0.08871715465665823,
+    "cohens_d": 0.9212678231755492
+  },
+  "Cytoplasm_DNA_Intensity": {
+    "vhl_mean": "0.21251793",
+    "control_mean": "0.27391687",
+    "fold_change": "0.77584827",
+    "p_value": 0.9582936859576121,
+    "cohens_d": -0.03220394698981904
+  },
+  "Cells_ER_Intensity": {
+    "vhl_mean": "-2.3876863",
+    "control_mean": "-0.0076626665",
+    "fold_change": "311.5999",
+    "p_value": 0.005184340044304497,
+    "cohens_d": -1.6487569482656128
+  },
+  "Nuclei_ER_Intensity": {
+    "vhl_mean": "1.0199606",
+    "control_mean": "0.012314302",
+    "fold_change": "82.827324",
+    "p_value": 0.2001854769643749,
+    "cohens_d": 0.7583949261576163
+  },
+  "Cytoplasm_ER_Intensity": {
+    "vhl_mean": "-3.7489572",
+    "control_mean": "-0.009746621",
+    "fold_change": "384.64172",
+    "p_value": 2.3885943229702744e-05,
+    "cohens_d": -2.576956792026521
+  },
+  "Cells_AGP_Intensity": {
+    "vhl_mean": "-1.2444861",
+    "control_mean": "-0.0059545105",
+    "fold_change": "208.99889",
+    "p_value": 0.10935403728758988,
+    "cohens_d": -0.8166485524449907
+  },
+  "Nuclei_AGP_Intensity": {
+    "vhl_mean": "0.62847537",
+    "control_mean": "-0.011525011",
+    "fold_change": "-54.531433",
+    "p_value": 0.41211275199319997,
+    "cohens_d": 0.43738831310826726
+  },
+  "Cytoplasm_AGP_Intensity": {
+    "vhl_mean": "-2.1819825",
+    "control_mean": "0.005812026",
+    "fold_change": "-375.42545",
+    "p_value": 0.00501474557817372,
+    "cohens_d": -1.4160274686296965
+  },
+  "Cells_Mito_Intensity": {
+    "vhl_mean": "-5.7533813",
+    "control_mean": "-0.033874977",
+    "fold_change": "169.84163",
+    "p_value": 3.1862421611934287e-13,
+    "cohens_d": -3.9839898764087156
+  },
+  "Nuclei_Mito_Intensity": {
+    "vhl_mean": "-3.54684",
+    "control_mean": "-0.038012587",
+    "fold_change": "93.30699",
+    "p_value": 1.2324711074855995e-06,
+    "cohens_d": -2.399926313506063
+  },
+  "Cytoplasm_Mito_Intensity": {
+    "vhl_mean": "-6.318258",
+    "control_mean": "-0.024392849",
+    "fold_change": "259.0209",
+    "p_value": 3.28451706905752e-14,
+    "cohens_d": -4.287477966437627
+  },
+  "Cells_RNA_Intensity": {
+    "vhl_mean": "-2.0598896",
+    "control_mean": "0.01964834",
+    "fold_change": "-104.837845",
+    "p_value": 0.022449701664727695,
+    "cohens_d": -1.3230671688626798
+  },
+  "Nuclei_RNA_Intensity": {
+    "vhl_mean": "0.43260795",
+    "control_mean": "0.0210486",
+    "fold_change": "20.552814",
+    "p_value": 0.6506109707058707,
+    "cohens_d": 0.24862981354236316
+  },
+  "Cytoplasm_RNA_Intensity": {
+    "vhl_mean": "-3.1721237",
+    "control_mean": "0.019683762",
+    "fold_change": "-161.15434",
+    "p_value": 0.0005109822405397597,
+    "cohens_d": -2.1040284878075646
+  }
+}

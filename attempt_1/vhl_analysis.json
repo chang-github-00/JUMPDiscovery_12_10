@@ -1,0 +1,31 @@
+{
+  "gene": "VHL",
+  "jcp_id": "JCP2022_807648",
+  "strength": 8.055609703063965,
+  "rank": 255,
+  "wells": 5,
+  "top_increased": {
+    "Cytoplasm_Texture_InverseDifferenceMoment_ER_5_02_256": 16286.3095703125,
+    "Nuclei_Texture_SumAverage_ER_10_03_256": 12965.974609375,
+    "Cytoplasm_Texture_DifferenceEntropy_RNA_10_01_256": 8730.0625,
+    "Cells_Texture_InfoMeas1_ER_3_03_256": 7992.90625,
+    "Nuclei_Texture_Variance_DNA_3_01_256": 6403.2001953125,
+    "Cytoplasm_Intensity_MeanIntensity_AGP": 5495.96435546875,
+    "Cytoplasm_RadialDistribution_RadialCV_Mito_3of4": 4351.06640625,
+    "Cytoplasm_Correlation_K_DNA_Mito": 4001.632080078125,
+    "Cells_RadialDistribution_FracAtD_mito_tubeness_18of20": 3583.515625,
+    "Cells_Correlation_RWC_RNA_DNA": 2628.435791015625
+  },
+  "top_decreased": {
+    "Cells_Intensity_MaxIntensity_AGP": -10332.2978515625,
+    "Nuclei_Texture_Variance_DNA_3_03_256": -5443.97998046875,
+    "Nuclei_Intensity_MinIntensity_RNA": -4032.887939453125,
+    "Nuclei_Texture_SumVariance_DNA_3_03_256": -3982.40087890625,
+    "Nuclei_Intensity_MinIntensityEdge_RNA": -3004.041748046875,
+    "Nuclei_Texture_SumVariance_DNA_5_02_256": -2837.833251953125,
+    "Cells_Intensity_MeanIntensityEdge_AGP": -2384.202392578125,
+    "Nuclei_Texture_SumAverage_ER_5_03_256": -2325.497802734375,
+    "Nuclei_Texture_SumAverage_ER_5_01_256": -1945.8192138671875,
+    "Cells_Texture_InfoMeas1_ER_3_01_256": -1926.782958984375
+  }
+}
