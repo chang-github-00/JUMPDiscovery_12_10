@@ -1,0 +1,15 @@
+*.tiff
+*.tif
+*.npy
+*.pkl
+*_overview.jpg
+*.parquet
+Interpretable_JUMP_Features/*
+JUMP_Similarity_Data/*
+Batch_Corrected_JUMP_Features/profiles_wellpos_cc_var_mad_outlier_featselect_sphering_harmony_orf.parquet
+Batch_Corrected_JUMP_Features/profiles_wellpos_cc_var_mad_outlier_featselect_sphering_harmony_PCA_corrected_crispr.parquet
+Interpretable_JUMP_Features/profiles_wellpos_cc_var_mad_outlier_orf.parquet
+Interpretable_JUMP_Features/profiles_wellpos_cc_var_mad_outlier_crispr.parquet
+JUMP_Similarity_Data/crispr_cosinesim_full.parquet
+JUMP_Similarity_Data/orf_cosinesim_full.parquet
+(python39) (python39)

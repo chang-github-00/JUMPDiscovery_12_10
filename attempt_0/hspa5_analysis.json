@@ -1,0 +1,66 @@
+{
+  "gene": "HSPA5",
+  "jcp_id": "JCP2022_803268",
+  "n_wells_crispr": 5,
+  "plates": [
+    "CP-CC9-R1-03",
+    "CP-CC9-R2-03",
+    "CP-CC9-R3-03",
+    "CP-CC9-R4-03",
+    "CP-CC9-R5-03"
+  ],
+  "wells": [
+    "H19"
+  ],
+  "top_mito_features": {
+    "Cytoplasm_Texture_InfoMeas2_Mito_3_02_256": -18.853275299072266,
+    "Cytoplasm_Texture_InfoMeas2_Mito_3_00_256": -18.41553497314453,
+    "Cytoplasm_Texture_Correlation_Mito_3_02_256": -18.37702178955078,
+    "Cells_Texture_Correlation_Mito_3_02_256": -17.847803115844727,
+    "Cytoplasm_Texture_Correlation_Mito_3_00_256": -17.733295440673828,
+    "Cells_Texture_InfoMeas2_Mito_3_02_256": -17.608535766601562,
+    "Cells_Texture_InfoMeas2_Mito_3_00_256": -17.48045539855957,
+    "Cells_Texture_Correlation_Mito_3_00_256": -17.356924057006836,
+    "Cytoplasm_Texture_Correlation_Mito_3_03_256": -17.342134475708008,
+    "Cytoplasm_Texture_AngularSecondMoment_Mito_10_03_256": 17.130443572998047,
+    "Cytoplasm_Texture_AngularSecondMoment_Mito_10_00_256": 17.080244064331055,
+    "Nuclei_Correlation_Manders_Mito_DNA": -16.992368698120117,
+    "Cytoplasm_Texture_AngularSecondMoment_Mito_5_03_256": 16.974641799926758,
+    "Cytoplasm_Texture_AngularSecondMoment_Mito_10_01_256": 16.963876724243164,
+    "Cytoplasm_Texture_Correlation_Mito_3_01_256": -16.857934951782227
+  },
+  "top_er_features": {
+    "Cytoplasm_Texture_Contrast_ER_3_02_256": 22.337501525878906,
+    "Cytoplasm_Texture_Contrast_ER_3_00_256": 21.454761505126953,
+    "Cytoplasm_Correlation_Correlation_ER_RNA": -21.003023147583008,
+    "Cytoplasm_Texture_Contrast_ER_3_01_256": 20.519840240478516,
+    "Cytoplasm_Texture_Contrast_ER_3_03_256": 20.504114151000977,
+    "Cytoplasm_Texture_DifferenceVariance_ER_10_03_256": 20.34659767150879,
+    "Nuclei_Texture_Correlation_ER_5_03_256": 20.270198822021484,
+    "Cytoplasm_Texture_DifferenceVariance_ER_10_02_256": 20.078977584838867,
+    "Cytoplasm_Texture_DifferenceVariance_ER_10_00_256": 20.05874252319336,
+    "Cytoplasm_Texture_AngularSecondMoment_ER_10_03_256": 20.016082763671875,
+    "Cytoplasm_Texture_Contrast_ER_5_02_256": 19.998943328857422,
+    "Cytoplasm_Texture_AngularSecondMoment_ER_10_01_256": 19.88295555114746,
+    "Cytoplasm_Texture_DifferenceVariance_ER_10_01_256": 19.87623405456543,
+    "Cells_Correlation_Correlation_ER_RNA": -19.854625701904297,
+    "Cytoplasm_Texture_DifferenceVariance_ER_5_03_256": 19.734010696411133
+  },
+  "top_cell_features": {
+    "Cells_Correlation_K_RNA_DNA": 20.364961624145508,
+    "Cells_Texture_DifferenceVariance_RNA_5_03_256": 19.884920120239258,
+    "Cells_Texture_DifferenceVariance_RNA_10_03_256": 19.86033821105957,
+    "Cells_Texture_DifferenceVariance_RNA_10_01_256": 19.850095748901367,
+    "Cells_Texture_DifferenceVariance_RNA_3_00_256": 19.835124969482422,
+    "Cells_Texture_DifferenceVariance_RNA_5_01_256": 19.82744598388672,
+    "Cells_Texture_DifferenceVariance_RNA_3_03_256": 19.78742790222168,
+    "Cells_Texture_DifferenceVariance_RNA_3_02_256": 19.7705020904541,
+    "Cells_Texture_DifferenceVariance_RNA_10_00_256": 19.768768310546875,
+    "Cells_Texture_DifferenceVariance_RNA_5_00_256": 19.756654739379883,
+    "Cells_Texture_DifferenceVariance_RNA_10_02_256": 19.745882034301758,
+    "Cells_Texture_DifferenceVariance_RNA_5_02_256": 19.73957633972168,
+    "Cells_Texture_DifferenceVariance_RNA_3_01_256": 19.716962814331055,
+    "Cells_Texture_AngularSecondMoment_RNA_10_02_256": 19.5594539642334,
+    "Cells_Texture_AngularSecondMoment_RNA_10_03_256": 19.509111404418945
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "gene": "CD36",
+  "jcp_id": "JCP2022_801155",
+  "n_wells_crispr": 5,
+  "n_wells_orf": 0,
+  "plates": [
+    "CP-CC9-R1-08",
+    "CP-CC9-R2-08",
+    "CP-CC9-R3-08",
+    "CP-CC9-R4-08",
+    "CP-CC9-R5-08"
+  ],
+  "wells": [
+    "M10"
+  ],
+  "top_mito_features": {
+    "Cytoplasm_Correlation_K_Mito_RNA": -1.4887663125991821,
+    "Cytoplasm_RadialDistribution_FracAtD_Mito_1of4": -1.462125539779663,
+    "Cells_Correlation_K_Mito_RNA": -1.4218661785125732,
+    "Cytoplasm_RadialDistribution_FracAtD_Mito_2of4": -1.413043737411499,
+    "Nuclei_Correlation_K_Mito_DNA": -1.3606963157653809,
+    "Cytoplasm_RadialDistribution_FracAtD_Mito_4of4": 1.352448582649231,
+    "Nuclei_Correlation_K_Mito_RNA": -1.3479145765304565,
+    "Cytoplasm_Correlation_K_Mito_ER": -1.3408700227737427,
+    "Cytoplasm_Correlation_RWC_Mito_DNA": -1.2892104387283325,
+    "Cells_Correlation_K_Mito_ER": -1.285400152206421
+  },
+  "top_er_features": {
+    "Cytoplasm_Correlation_RWC_ER_DNA": -1.7946281433105469,
+    "Nuclei_Granularity_16_ER": 1.4744782447814941,
+    "Cells_Granularity_16_ER": 1.3812291622161865,
+    "Cytoplasm_Correlation_K_Mito_ER": -1.3408700227737427,
+    "Cytoplasm_Correlation_RWC_DNA_ER": -1.325758695602417,
+    "Cytoplasm_Granularity_16_ER": 1.2976511716842651,
+    "Cells_Correlation_K_Mito_ER": -1.285400152206421,
+    "Nuclei_Correlation_K_Mito_ER": -1.2476272583007812,
+    "Nuclei_Correlation_K_ER_RNA": -1.2034419775009155,
+    "Cytoplasm_Correlation_K_ER_AGP": 1.2025179862976074
+  },
+  "top_cell_features": {
+    "Cells_AreaShape_Zernike_3_1": 1.739739179611206,
+    "Cells_AreaShape_Zernike_5_5": -1.608901023864746,
+    "Cells_AreaShape_Orientation": -1.502353549003601,
+    "Cells_AreaShape_Zernike_8_2": -1.4837431907653809,
+    "Cells_AreaShape_Zernike_7_5": -1.3988767862319946,
+    "Cells_Texture_InfoMeas1_DNA_10_01_256": 1.3918968439102173,
+    "Cells_AreaShape_Zernike_9_3": 1.362335443496704,
+    "Cells_Texture_InfoMeas2_DNA_10_01_256": -1.224449634552002,
+    "Cells_Granularity_16_RNA": 1.1931699514389038,
+    "Cells_Children_Cytoplasm_Count": 1.1241552829742432
+  }
+}
