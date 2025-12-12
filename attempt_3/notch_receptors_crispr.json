@@ -1,0 +1,158 @@
+{
+  "NOTCH1": [
+    {
+      "gene": "NOTCH1",
+      "jcp_id": "JCP2022_804641",
+      "plate_type": "crispr",
+      "ncbi_gene_id": "4851",
+      "pert_type": "trt",
+      "plate": "CP-CC9-R4-21",
+      "well": "J08",
+      "source": "source_13"
+    },
+    {
+      "gene": "NOTCH1",
+      "jcp_id": "JCP2022_804641",
+      "plate_type": "crispr",
+      "ncbi_gene_id": "4851",
+      "pert_type": "trt",
+      "plate": "CP-CC9-R3-21",
+      "well": "J08",
+      "source": "source_13"
+    },
+    {
+      "gene": "NOTCH1",
+      "jcp_id": "JCP2022_804641",
+      "plate_type": "crispr",
+      "ncbi_gene_id": "4851",
+      "pert_type": "trt",
+      "plate": "CP-CC9-R1-21",
+      "well": "J08",
+      "source": "source_13"
+    },
+    {
+      "gene": "NOTCH1",
+      "jcp_id": "JCP2022_804641",
+      "plate_type": "crispr",
+      "ncbi_gene_id": "4851",
+      "pert_type": "trt",
+      "plate": "CP-CC9-R5-21",
+      "well": "J08",
+      "source": "source_13"
+    },
+    {
+      "gene": "NOTCH1",
+      "jcp_id": "JCP2022_804641",
+      "plate_type": "crispr",
+      "ncbi_gene_id": "4851",
+      "pert_type": "trt",
+      "plate": "CP-CC9-R2-21",
+      "well": "J08",
+      "source": "source_13"
+    }
+  ],
+  "NOTCH2": [
+    {
+      "gene": "NOTCH2",
+      "jcp_id": "JCP2022_804642",
+      "plate_type": "crispr",
+      "ncbi_gene_id": "4853",
+      "pert_type": "trt",
+      "plate": "CP-CC9-R5-23",
+      "well": "K12",
+      "source": "source_13"
+    },
+    {
+      "gene": "NOTCH2",
+      "jcp_id": "JCP2022_804642",
+      "plate_type": "crispr",
+      "ncbi_gene_id": "4853",
+      "pert_type": "trt",
+      "plate": "CP-CC9-R2-23",
+      "well": "K12",
+      "source": "source_13"
+    },
+    {
+      "gene": "NOTCH2",
+      "jcp_id": "JCP2022_804642",
+      "plate_type": "crispr",
+      "ncbi_gene_id": "4853",
+      "pert_type": "trt",
+      "plate": "CP-CC9-R1-23",
+      "well": "K12",
+      "source": "source_13"
+    },
+    {
+      "gene": "NOTCH2",
+      "jcp_id": "JCP2022_804642",
+      "plate_type": "crispr",
+      "ncbi_gene_id": "4853",
+      "pert_type": "trt",
+      "plate": "CP-CC9-R3-23",
+      "well": "K12",
+      "source": "source_13"
+    },
+    {
+      "gene": "NOTCH2",
+      "jcp_id": "JCP2022_804642",
+      "plate_type": "crispr",
+      "ncbi_gene_id": "4853",
+      "pert_type": "trt",
+      "plate": "CP-CC9-R4-23",
+      "well": "K12",
+      "source": "source_13"
+    }
+  ],
+  "NOTCH3": [
+    {
+      "gene": "NOTCH3",
+      "jcp_id": "JCP2022_804643",
+      "plate_type": "crispr",
+      "ncbi_gene_id": "4854",
+      "pert_type": "trt",
+      "plate": "CP-CC9-R4-20",
+      "well": "H14",
+      "source": "source_13"
+    },
+    {
+      "gene": "NOTCH3",
+      "jcp_id": "JCP2022_804643",
+      "plate_type": "crispr",
+      "ncbi_gene_id": "4854",
+      "pert_type": "trt",
+      "plate": "CP-CC9-R5-20",
+      "well": "H14",
+      "source": "source_13"
+    },
+    {
+      "gene": "NOTCH3",
+      "jcp_id": "JCP2022_804643",
+      "plate_type": "crispr",
+      "ncbi_gene_id": "4854",
+      "pert_type": "trt",
+      "plate": "CP-CC9-R2-20",
+      "well": "H14",
+      "source": "source_13"
+    },
+    {
+      "gene": "NOTCH3",
+      "jcp_id": "JCP2022_804643",
+      "plate_type": "crispr",
+      "ncbi_gene_id": "4854",
+      "pert_type": "trt",
+      "plate": "CP-CC9-R1-20",
+      "well": "H14",
+      "source": "source_13"
+    },
+    {
+      "gene": "NOTCH3",
+      "jcp_id": "JCP2022_804643",
+      "plate_type": "crispr",
+      "ncbi_gene_id": "4854",
+      "pert_type": "trt",
+      "plate": "CP-CC9-R3-20",
+      "well": "H14",
+      "source": "source_13"
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "available_genes": [
+    "APH1A",
+    "ARRB1",
+    "CCND1",
+    "CUL1",
+    "DLL1",
+    "DTX1",
+    "DTX2",
+    "DTX4",
+    "FBXW11",
+    "FZD1",
+    "FZD5",
+    "FZD7",
+    "HES1",
+    "HEYL",
+    "JAG1",
+    "KAT2A",
+    "LFNG",
+    "MAML2",
+    "NOTCH1",
+    "NOTCH2",
+    "NOTCH3",
+    "PPARD",
+    "PRKCA",
+    "PSEN2",
+    "PSENEN",
+    "RBX1",
+    "SAP30",
+    "SKP1",
+    "ST3GAL6",
+    "TCF7L2",
+    "WNT2",
+    "WNT5A"
+  ],
+  "gene_counts": {
+    "APH1A": {
+      "crispr": 0,
+      "orf": 15,
+      "jcp_ids": [
+        "JCP2022_903012",
+        "JCP2022_903013",
+        "JCP2022_914800"
+      ]
+    },
+    "ARRB1": {
+      "crispr": 0,
+      "orf": 5,
+      "jcp_ids": [
+        "JCP2022_900099"
+      ]
+    },
+    "CCND1": {
+      "crispr": 5,
+      "orf": 10,
+      "jcp_ids": [
+        "JCP2022_905496",
+        "JCP2022_900145",
+        "JCP2022_801112"
+      ]
+    },
+    "CUL1": {
+      "crispr": 5,
+      "orf": 5,
+      "jcp_ids": [
+        "JCP2022_910512",
+        "JCP2022_801583"
+      ]
+    },
+    "DLL1": {
+      "crispr": 5,
+      "orf": 0,
+      "jcp_ids": [
+        "JCP2022_801832"
+      ]
+    },
+    "DTX1": {
+      "crispr": 10,
+      "orf": 0,
+      "jcp_ids": [
+        "JCP2022_801924"
+      ]
+    },
+    "DTX2": {
+      "crispr": 5,
+      "orf": 5,
+      "jcp_ids": [
+        "JCP2022_801925",
+        "JCP2022_908765"
+      ]
+    },
+    "DTX4": {
+      "crispr": 5,
+      "orf": 5,
+      "jcp_ids": [
+        "JCP2022_910906",
+        "JCP2022_801928"
+      ]
+    },
+    "FBXW11": {
+      "crispr": 5,
+      "orf": 5,
+      "jcp_ids": [
+        "JCP2022_902575",
+        "JCP2022_802338"
+      ]
+    },
+    "FZD1": {
+      "crispr": 5,
+      "orf": 0,
+      "jcp_ids": [
+        "JCP2022_802526"
+      ]
+    },
+    "FZD5": {
+      "crispr": 5,
+      "orf": 5,
+      "jcp_ids": [
+        "JCP2022_802531",
+        "JCP2022_913907"
+      ]
+    },
+    "FZD7": {
+      "crispr": 5,
+      "orf": 5,
+      "jcp_ids": [
+        "JCP2022_901761",
+        "JCP2022_802533"
+      ]
+    },
+    "HES1": {
+      "crispr": 5,
+      "orf": 0,
+      "jcp_ids": [
+        "JCP2022_803080"
+      ]
+    },
+    "HEYL": {
+      "crispr": 5,
+      "orf": 5,
+      "jcp_ids": [
+        "JCP2022_803093",
+        "JCP2022_902778"
+      ]
+    },
+    "JAG1": {
+      "crispr": 5,
+      "orf": 0,
+      "jcp_ids": [
+        "JCP2022_803518"
+      ]
+    },
+    "KAT2A": {
+      "crispr": 5,
+      "orf": 0,
+      "jcp_ids": [
+        "JCP2022_803540"
+      ]
+    },
+    "LFNG": {
+      "crispr": 0,
+      "orf": 5,
+      "jcp_ids": [
+        "JCP2022_900875"
+      ]
+    },
+    "MAML2": {
+      "crispr": 0,
+      "orf": 5,
+      "jcp_ids": [
+        "JCP2022_911948"
+      ]
+    },
+    "NOTCH1": {
+      "crispr": 5,
+      "orf": 0,
+      "jcp_ids": [
+        "JCP2022_804641"
+      ]
+    },
+    "NOTCH2": {
+      "crispr": 5,
+      "orf": 5,
+      "jcp_ids": [
+        "JCP2022_910254",
+        "JCP2022_804642"
+      ]
+    },
+    "NOTCH3": {
+      "crispr": 5,
+      "orf": 0,
+      "jcp_ids": [
+        "JCP2022_804643"
+      ]
+    },
+    "PPARD": {
+      "crispr": 5,
+      "orf": 5,
+      "jcp_ids": [
+        "JCP2022_906321",
+        "JCP2022_805395"
+      ]
+    },
+    "PRKCA": {
+      "crispr": 5,
+      "orf": 10,
+      "jcp_ids": [
+        "JCP2022_913813",
+        "JCP2022_901203",
+        "JCP2022_805527"
+      ]
+    },
+    "PSEN2": {
+      "crispr": 10,
+      "orf": 5,
+      "jcp_ids": [
+        "JCP2022_906355",
+        "JCP2022_805606"
+      ]
+    },
+    "PSENEN": {
+      "crispr": 0,
+      "orf": 5,
+      "jcp_ids": [
+        "JCP2022_903444"
+      ]
+    },
+    "RBX1": {
+      "crispr": 5,
+      "orf": 5,
+      "jcp_ids": [
+        "JCP2022_902134",
+        "JCP2022_805876"
+      ]
+    },
+    "SAP30": {
+      "crispr": 5,
+      "orf": 0,
+      "jcp_ids": [
+        "JCP2022_806175"
+      ]
+    },
+    "SKP1": {
+      "crispr": 0,
+      "orf": 10,
+      "jcp_ids": [
+        "JCP2022_901436",
+        "JCP2022_906506"
+      ]
+    },
+    "ST3GAL6": {
+      "crispr": 5,
+      "orf": 0,
+      "jcp_ids": [
+        "JCP2022_806802"
+      ]
+    },
+    "TCF7L2": {
+      "crispr": 5,
+      "orf": 5,
+      "jcp_ids": [
+        "JCP2022_807003",
+        "JCP2022_901536"
+      ]
+    },
+    "WNT2": {
+      "crispr": 0,
+      "orf": 5,
+      "jcp_ids": [
+        "JCP2022_901657"
+      ]
+    },
+    "WNT5A": {
+      "crispr": 0,
+      "orf": 5,
+      "jcp_ids": [
+        "JCP2022_901658"
+      ]
+    }
+  }
+}

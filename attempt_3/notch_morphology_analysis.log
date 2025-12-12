@@ -1,0 +1,68 @@
+PySide6/__init__.py: Unable to import Shiboken from /home/user/Documents/WorkingDir/JUMPDiscovery_attempt_3, /home/user/Documents/WorkingDir/tools/registry/lib, /home/user/Documents/WorkingDir/JUMPDiscovery_attempt_3, /home/user/miniforge3/envs/python39/lib/python39.zip, /home/user/miniforge3/envs/python39/lib/python3.9, /home/user/miniforge3/envs/python39/lib/python3.9/lib-dynload, /home/user/miniforge3/envs/python39/lib/python3.9/site-packages
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-user'
+================================================================================
+NOTCH RECEPTOR KNOCKOUT MORPHOLOGICAL ANALYSIS
+================================================================================
+
+Analyzing NOTCH1_KO...
+  Site 1: 304 nuclei, 296 cells
+  Site 2: 353 nuclei, 341 cells
+  Site 3: 340 nuclei, 299 cells
+
+Analyzing NOTCH2_KO...
+  Site 1: 308 nuclei, 200 cells
+  Site 2: 281 nuclei, 256 cells
+  Site 3: 223 nuclei, 203 cells
+
+Analyzing NOTCH3_KO...
+  Site 1: 285 nuclei, 286 cells
+  Site 2: 246 nuclei, 246 cells
+  Site 3: 240 nuclei, 230 cells
+
+Analyzing NegCon...
+  Site 1: 341 nuclei, 320 cells
+  Site 2: 388 nuclei, 346 cells
+  Site 3: 313 nuclei, 316 cells
+
+Total cells analyzed: 3515
+  NOTCH1_KO: 967
+  NOTCH2_KO: 755
+  NOTCH3_KO: 767
+  NegCon: 1026
+
+================================================================================
+STATISTICAL SUMMARY
+================================================================================
+          nucleus_area              ... mito_granularity          
+                  mean         std  ...             mean       std
+condition                           ...                           
+NOTCH1_KO   725.319545  281.887079  ...         4.491147  3.905121
+NOTCH2_KO   776.374834  508.182945  ...         7.038219  6.578323
+NOTCH3_KO   760.857888  298.906444  ...         4.063381  4.746810
+NegCon      693.414230  385.217588  ...         4.640071  3.948102
+
+[4 rows x 22 columns]
+
+================================================================================
+CREATING VISUALIZATIONS
+================================================================================
+  Saved: notch_feature_distributions.png
+  Saved: notch_feature_boxplots.png
+  Saved: notch_feature_scatter.png
+
+================================================================================
+FOLD CHANGES RELATIVE TO NEGATIVE CONTROL
+================================================================================
+           nucleus_area  cell_area  ...  cell_rna_mean  mito_granularity
+NOTCH1_KO      1.046012   0.752300  ...       0.935422          0.967905
+NOTCH2_KO      1.119641  17.270200  ...       0.981698          1.516834
+NOTCH3_KO      1.097263   0.802543  ...       0.864006          0.875715
+
+[3 rows x 11 columns]
+
+  Saved: notch_fold_changes_heatmap.png
+  Saved: notch_fold_changes.csv
+
+================================================================================
+ANALYSIS COMPLETE
+================================================================================
