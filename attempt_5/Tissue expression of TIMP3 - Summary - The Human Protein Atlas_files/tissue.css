@@ -1,0 +1,173 @@
+/* Landing page */
+.tissue_group_0 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 200px;
+	text-align: left;
+}
+.tissue_group_1 {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	width: 200px;
+	text-align: right;
+}
+.tissue_group {
+	display: inline-block;
+	margin: 10px;
+	background-repeat: no-repeat;
+	background-size: 40px;
+	min-height: 40px;
+	position: relative;
+	padding-bottom: 10px;
+}
+.tissue_group_0 .tissue_group {
+	background-position: 135px 50%;
+	padding-right: 60px;
+}
+.tissue_group_1 .tissue_group {
+	background-position: 5px 50%;
+	padding-left: 60px;
+}
+.tissue_group_0 .group_color_bar, .tissue_group_1 .group_color_bar {
+	position: absolute;
+	top: 0px;
+	height: 100%;
+	border-style: solid;
+	left: 125px;
+	border-width: 0px 3px 0px 0px;
+}
+.tissue_group_1 .group_color_bar {
+	left: auto;
+	right: 123px;
+	border-width: 0px 0px 0px 3px;
+}
+.tissue_link {
+	width: 120px;
+	position: relative;
+}
+.tissue_group_0 .tissue_link {
+	height: 22px;
+}
+.tissue_group_1 .tissue_link {
+	height: 25px;
+}
+.tissue_link a {
+    display: block;
+}
+.tissue_link div.tissue_elevated_bar {
+    display: block;
+    position: absolute;
+    width: 120px;
+    white-space: nowrap;
+    line-height: 0px;
+}
+.tissue_link div.tissue_elevated_bar a {
+    display: inline-block;
+}
+.tissue_link div.tissue_elevated_bar a div {
+    display: inline-block;
+    height: 6px;
+    position: relative;
+    white-space: nowrap;
+    width: 100%;
+}
+.tissue_group_0 div.tissue_elevated_bar a div {
+    float: left;
+}
+.tissue_group_1 div.tissue_elevated_bar a div {
+    float: right;
+}
+.woman_center, .man_center {
+	padding: 100px 0px 70px 0px;
+	height: 510px;
+	width: 250px;
+	display: inline-block;
+	overflow: hidden;
+	margin: 0px 5px;
+	position: relative;
+}
+.woman_center.small, .man_center.small {
+	padding-top: 50px;
+	width: 200px;
+	height: 360px;
+}
+.woman_center svg, .man_center svg {
+	position: relative;
+	left: 50%;
+}
+.woman_center svg {
+	left: -50%;
+}
+.woman_center div, .man_center div {
+	position: absolute;
+	top: 100px;
+	border-right: 2px solid #a0a1a2;
+	right: 0px;
+	height: 235px;
+}
+.woman_center.small div, .man_center.small div {
+	top: 50px;
+	height: 187px;
+}
+.woman_center div {
+	right: auto;
+	left: 0px;
+	height: 235px;
+}
+.woman_bg {
+	background-color: #fff;
+	border-radius: 7px;
+	width: 300px;
+	height: 520px;
+	position: absolute;
+	top: 97px;
+	margin-left: 50%;
+	left: -150px;
+}
+
+.patientImages {
+	display: flex;
+	justify-content: space-evenly;
+	margin-bottom: 1em;
+}
+
+.patientImages > :first-child {
+	margin-left: 0;
+}
+.patientImages > * {
+	margin-left: 1rem;
+}
+
+.mtChannel {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	margin-top: 1em;
+    margin-left: 5px;
+}
+.mtChannel div, .mtChannel div table, .mtChannel div table td.mt_value  {
+    width: 100%;
+}
+
+
+.multiplexSelectedImage {
+	max-width: 200px;
+	display: inline-block;
+	margin: 0px 20px 20px 20px;
+	vertical-align: top;
+}
+.multiplexContainer {
+	text-align: center;
+}
+
+.mx_info_box {
+	background-color: #d2d2d2;
+	border-radius: 3px;
+	padding: 5px;
+	width: 120px;
+	position: absolute;
+	top: 20px;
+	text-align: left;
+}

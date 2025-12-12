@@ -1,0 +1,12 @@
+{"gene": "TIMP3", "jcp_id": "JCP2022_807089", "plate_type": "crispr", "ncbi_gene_id": "7078", "pert_type": "trt", "plate": "CP-CC9-R6-01", "well": "A19", "source": "source_13"}
+{"gene": "TIMP3", "jcp_id": "JCP2022_807089", "plate_type": "crispr", "ncbi_gene_id": "7078", "pert_type": "trt", "plate": "CP-CC9-R1-01", "well": "A19", "source": "source_13"}
+{"gene": "TIMP3", "jcp_id": "JCP2022_807089", "plate_type": "crispr", "ncbi_gene_id": "7078", "pert_type": "trt", "plate": "CP-CC9-R5-01", "well": "A19", "source": "source_13"}
+{"gene": "TIMP3", "jcp_id": "JCP2022_807089", "plate_type": "crispr", "ncbi_gene_id": "7078", "pert_type": "trt", "plate": "CP-CC9-R7-01", "well": "A19", "source": "source_13"}
+{"gene": "TIMP3", "jcp_id": "JCP2022_807089", "plate_type": "crispr", "ncbi_gene_id": "7078", "pert_type": "trt", "plate": "CP-CC9-R3-01", "well": "A19", "source": "source_13"}
+{"gene": "TIMP3", "jcp_id": "JCP2022_807089", "plate_type": "crispr", "ncbi_gene_id": "7078", "pert_type": "trt", "plate": "CP-CC9-R8-01", "well": "A19", "source": "source_13"}
+{"gene": "TIMP3", "jcp_id": "JCP2022_807089", "plate_type": "crispr", "ncbi_gene_id": "7078", "pert_type": "trt", "plate": "CP-CC9-R2-01", "well": "A19", "source": "source_13"}
+{"gene": "TIMP3", "jcp_id": "JCP2022_901557", "plate_type": "orf", "ncbi_gene_id": "7078", "pert_type": "trt", "plate": "BR00123511", "well": "P04", "source": "source_4"}
+{"gene": "TIMP3", "jcp_id": "JCP2022_901557", "plate_type": "orf", "ncbi_gene_id": "7078", "pert_type": "trt", "plate": "BR00123509", "well": "P04", "source": "source_4"}
+{"gene": "TIMP3", "jcp_id": "JCP2022_901557", "plate_type": "orf", "ncbi_gene_id": "7078", "pert_type": "trt", "plate": "BR00123788", "well": "P04", "source": "source_4"}
+{"gene": "TIMP3", "jcp_id": "JCP2022_901557", "plate_type": "orf", "ncbi_gene_id": "7078", "pert_type": "trt", "plate": "BR00123789", "well": "P04", "source": "source_4"}
+{"gene": "TIMP3", "jcp_id": "JCP2022_901557", "plate_type": "orf", "ncbi_gene_id": "7078", "pert_type": "trt", "plate": "BR00123510", "well": "P04", "source": "source_4"}

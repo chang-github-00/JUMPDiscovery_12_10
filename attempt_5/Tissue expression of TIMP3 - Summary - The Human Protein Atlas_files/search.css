@@ -1,0 +1,382 @@
+div.index_header div.searchDisplay {
+	text-align: left;
+	width: 800px;
+	margin: auto;
+	margin-bottom: 25px;
+}
+div.page_header div.searchDisplay {
+	width: 800px;
+	padding-right: 200px;
+	padding-top: 0px;
+	margin: auto;
+	text-align: left;
+}
+
+div.searchDisplay {
+	position: relative;
+	z-index: 1000;
+}
+button.searchButton, button.fieldsAdd, button.fieldsCancel {
+	border-radius: 3px;
+	padding: 4.8px 10px;
+	margin: 2px;
+	width: 83.5px;
+}
+.fieldsForm {
+	display: none;
+	z-index: 1000;
+	white-space: nowrap;
+	position: absolute;
+	top: 34px;
+	left: -8px;
+	padding: 0px 8px 16px 8px;
+	border-radius: 5px;
+	background-color: #f0f0f0;
+	width: fit-content;
+	min-width: 800px;
+}
+div.page_header div.searchDisplay .fieldsForm {
+	background-color: #fff;
+	min-width: 816px;
+}
+.index_search .fieldButtons {
+	float: right;
+	margin-bottom: 10px;
+}
+.fieldsForm div.subSearchField {
+	display: inline-block;
+}
+.fieldsForm .ui-menu-item {
+	text-align: left;
+}
+.fieldsForm .ui-state-default .ui-icon {
+	background-image: url(/utils/core/lib/jquery_ui/images/ui-icons_555555_256x240.png);
+}
+.fieldsForm .ui-state-hover {
+	border: 1px solid #003eff;
+	background: #007fff;
+	font-weight: normal;
+	color: #fff;
+}
+.fieldsForm .ui-selectmenu-menu, .fieldsForm .ui-multiselect-menu, .fieldsForm .ui-autocomplete {
+	padding: 0px;
+	z-index: 1000;
+	white-space: normal;
+}
+.fieldsForm .ui-multiselect-menu .ui-multiselect-checkboxes li {
+	padding: 0px;
+}
+.fieldsForm .ui-multiselect-checkboxes .ui-multiselect-optgroup ul {
+	padding: 0px;
+}
+.fieldsForm .ui-multiselect-checkboxes .ui-multiselect-optgroup a {
+	border: none;
+	text-align: left;
+	margin: 6px 0px 0px 0px;
+	padding: 2px 4.8px;
+}
+.fieldsForm .ui-multiselect-checkboxes .ui-multiselect-optgroup a:hover {
+	color: #333;
+}
+.fieldsForm .ui-multiselect-menu .ui-corner-all {
+	border-left: none;
+	border-right: none;
+	border-bottom-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+	border-top-right-radius: 0px;
+	border-top-left-radius: 0px;
+}
+.fieldsForm .ui-multiselect-menu,
+.fieldsForm .ui-selectmenu-menu .ui-menu {
+	max-height: 365px;
+	overflow-y: auto;
+	min-width: 180px;
+}
+.fieldsForm .ui-multiselect-menu li,
+.fieldsForm .ui-selectmenu-menu li {
+	white-space: nowrap;
+}
+.fieldsForm .ui-multiselect-menu input[type=checkbox] {
+	margin-right: 4px;
+	top: 3px;
+}
+
+input.searchQuery,
+.fieldsForm .ui-selectmenu-button,
+.fieldsForm input.autocomplete,
+.fieldsForm input.text,
+.fieldsForm button.ui-multiselect,
+#filterGenesString {
+	width: 154px;
+	border: 1px solid #ccc;
+	background: #f6f6f6;
+	/*background: #ccd9ff;*/
+	font-weight: normal;
+	color: #454545;
+	border-radius: 3px;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 12px;
+	padding: 4.8px 12px 4.8px 12px;
+	margin: 0px 2px;
+	line-height: 1.4;
+}
+input.searchQuery {
+	width: 470px;
+	flex-grow: 2;
+}
+div.index_header input.searchQuery {
+	outline: none;
+	/*border-color: #9ecaed;*/
+	box-shadow: 0 0 10px #9ecaed;
+}
+.fieldsForm button.ui-multiselect {
+	padding-right: 0.5em;
+	cursor: pointer;
+}
+.fieldsForm button.ui-multiselect .ui-icon {
+	background-position-y: -12px;
+}
+#searchHelp {
+	margin-left: 15px;
+	padding-right: 140px;
+}
+/*## Search result */
+#searchResult {
+	width: auto;
+}
+.searchResult td {
+	vertical-align: middle;
+	cursor: auto;
+	overflow: hidden;
+}
+.searchResult td.lineheight {
+	line-height: 21px;
+}
+.searchResult td.nopadd {
+	padding: 0 0 0 0;
+}
+.searchResult td.nowrap {
+	white-space: nowrap;
+}
+.searchResult td.wrap {
+	white-space: normal;
+}
+.searchResult td.maxwidth {
+	/* max-width: 340px; */
+}
+.searchResult td.center {
+	text-align: center;
+}
+button.showHideColumns {
+	width: 75px;
+}
+.searchResult td a.tda {
+	display: inline-block;
+	margin: -10em;
+	padding: 10em;
+	width: 100%;
+}
+
+th.column {
+	position: relative;
+	border: none;
+}
+th.column .hide_column {
+	font-size: 9px;
+	cursor: pointer;
+	position: absolute;
+	right: 5px;
+	top: 6px;
+}
+
+.selsearch {
+	font-size: 12px;
+	margin-left: 3px;
+}
+
+#showHideColumns .slide_content {
+	background-color: #c2c2c2;
+	border-bottom: 1px solid #d9d9d9;
+	padding-bottom: 10px;
+}
+#showHideColumns span.selheader {
+	display: inline-block;
+	margin: 3px 3px 5px 3px;
+	font-weight: bold;
+	font-size: 13px;
+}
+
+/*
+Customized TSV download options
+ */
+#customDownload {
+	display: none;
+}
+#customDownload .slide_content,
+#customReport .slide_content {
+	padding-left: 20px;
+	background-color: #c2c2c2;
+	border-bottom: 1px solid #d9d9d9;
+	padding-bottom: 10px;
+}
+#customDownload button,
+#customReport button {
+	cursor: pointer;
+}
+
+#customDownload div.selectGroup,
+#customReport div.selectGroup {
+	padding-top: 15px;
+	padding-left: 5px;
+}
+
+#customDownload div.selectGroup button,
+#customReport div.selectGroup button {
+	white-space: nowrap;
+	padding: 2px 5px 2px 5px;
+	width: auto;
+}
+#customDownload div.selectGroup button:hover,
+#customReport div.selectGroup button:hover {
+	background-color: #c2c2c2;
+}
+#customDownload input,
+#customReport input {
+	margin-bottom: 1px;
+	vertical-align: bottom;
+	cursor: pointer;
+}
+#customDownload span.selheader {
+	margin: 3px 5px 3px 5px;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.downloadClassItems {
+	display: none;
+}
+.downloadClassItems ul {
+	list-style-type: none;
+	padding-left: 23px;
+	margin-block-start: 8px;
+	margin-block-end: 8px;
+}
+.downloadClassItem {
+	font-weight: normal;
+	vertical-align: top;
+}
+.downloadClass {
+	margin: 0px 7px 3px 2px;
+	padding: 0px 2px 2px 9px;
+}
+.downloadClass > p {
+	margin-top: 0.5em;
+	margin-bottom: 0;
+	margin-left: 0.5em;
+}
+.downloadClass .openlink {
+	cursor: pointer;
+}
+.saved_search_results {
+	padding-left: 2px;
+	font-size: 10px;
+	display: none;
+}
+.saved_search_results p {
+	font-size: 10px;
+	display: inline;
+}
+
+
+
+/* Search filter (UMAP, Interaction etc) */
+#showFilter {
+	/* FIXME: */
+	width: 104px;
+	text-align: center;
+	height: 26px;
+}
+#showFilter a {
+	line-height: 22px;
+}
+
+#filterPlacement {
+	margin-right: 4px;
+	padding: 4px;
+	margin-top: 0px;
+}
+.interaction_summary #filterPlacement {
+	margin-bottom: 10px;
+}
+#filterPlacement .fieldsForm {
+	background-color: #d9d9d9;
+	padding-left: 4px;
+	left: -4px;
+	top: 32px;
+	min-width: 684px;
+}
+#filterPlacement,
+#showFilter.visible {
+	background-color: #d9d9d9;
+}
+
+#showFilter {
+	display: inline-block;
+	padding: 1px 4px;
+	border-top-left-radius: 7px;
+	border-top-right-radius: 7px;
+}
+
+#filterMenu {
+	margin-left: 15px;
+}
+#removeHighlight {
+	visibility: hidden;
+}
+#filterMenu > div {
+	display: inline-block;
+}
+#filterMenu > div:not(:first-child) {
+	margin-left: 2ch;
+}
+#filterMenu > #showFilter.visible a {
+	color: #000;
+}
+
+#filterMenu button {
+	width: fit-content;
+}
+
+#filterMenu button.active {
+	background-color: pink;
+}
+
+#filterGenes label.filterTitle {
+	font-weight: bold;
+}
+
+#filterGenes label.filterTitle,
+#filterGenes a#fieldsLink {
+	padding-left: 3px;
+	white-space: nowrap;
+}
+
+
+#filterGenes input.searchQuery {
+	width: 100%;
+}
+
+#filterGenes a.filterExample {
+	cursor: pointer;
+}
+
+#filterButtons {
+	display: flex;
+	justify-content: space-between;
+}
+
+#filterGenesSearch {
+	width: 130px;
+	margin-right: 50px;
+	float: right;
+}

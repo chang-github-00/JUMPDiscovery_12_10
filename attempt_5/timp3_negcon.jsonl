@@ -1,0 +1,3 @@
+{"gene": "NEGCON_CONTROL", "jcp_id": "JCP2022_800002", "plate_type": "control", "ncbi_gene_id": "N/A", "pert_type": "negcon", "plate": "CP-CC9-R1-01", "well": "A02", "source": "N/A"}
+{"gene": "NEGCON_CONTROL", "jcp_id": "JCP2022_800001", "plate_type": "control", "ncbi_gene_id": "N/A", "pert_type": "negcon", "plate": "CP-CC9-R1-01", "well": "B02", "source": "N/A"}
+{"gene": "NEGCON_CONTROL", "jcp_id": "JCP2022_800002", "plate_type": "control", "ncbi_gene_id": "N/A", "pert_type": "negcon", "plate": "CP-CC9-R1-01", "well": "C23", "source": "N/A"}
